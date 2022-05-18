@@ -1,4 +1,4 @@
-## Hello 👋 I'm a Web-developer
+## Hello, my name is Danil 👋 I'm a Web-developer
 </br>
 Technology stack
 
@@ -31,7 +31,12 @@ Technology stack
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-**Learning**
+**I'm currently learning**
 
 ![Solidity language](https://img.shields.io/badge/-Solidity-gray)
 ![TON Blockchain](https://img.shields.io/badge/-TON-blue)
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![DJWOMS github stats](https://github-readme-stats.vercel.app/api?username=DJWOMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![DJWOMS Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DJWOMS&layout=compact&count_private=true&theme=gruvbox)
