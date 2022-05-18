@@ -33,5 +33,5 @@ Technology stack
 
 **Learning**
 
-![Solidity language](https://img.shields.io/badge/-Solidity-gray)
+![Solidity language]([https://img.shields.io/badge/-Solidity-gray](https://img.shields.io/badge/-Solidity-grey?style=flat-square&logo=Solidity))
 ![TON Blockchain](https://img.shields.io/badge/-TON-blue)
